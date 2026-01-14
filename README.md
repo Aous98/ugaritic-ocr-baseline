@@ -7,6 +7,7 @@ Project root:
 ## scripts
 
 ### 01_generate_templates.py
+
 - Location:
   - /home/aous/Desktop/research/2025/synth/scripts/01_generate_templates.py
 - Purpose:
@@ -91,3 +92,6 @@ Project root:
   - /home/aous/Desktop/research/2025/synth/data/04_lora/clay/lora_quick/clay_quick_r8_unetonly.safetensors
 - Result:
   - Training completed successfully (600/600 steps), avr_loss ≈ 0.185
+
+  ### Example of OCR model output
+  <img width="1024" height="1024" alt="vis_page_000000" src="https://github.com/user-attachments/assets/3d5fe162-16cd-4f14-87c3-94397de64679" />
